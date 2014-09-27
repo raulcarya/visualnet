@@ -1,0 +1,5 @@
+c:\users\lab104pc6\documents\visual studio 2012\Projects\AppSwitchnumletra\AppSwitchnumletra\bin\Debug\AppSwitchnumletra.exe.config
+c:\users\lab104pc6\documents\visual studio 2012\Projects\AppSwitchnumletra\AppSwitchnumletra\bin\Debug\AppSwitchnumletra.exe
+c:\users\lab104pc6\documents\visual studio 2012\Projects\AppSwitchnumletra\AppSwitchnumletra\bin\Debug\AppSwitchnumletra.pdb
+c:\users\lab104pc6\documents\visual studio 2012\Projects\AppSwitchnumletra\AppSwitchnumletra\obj\Debug\AppSwitchnumletra.exe
+c:\users\lab104pc6\documents\visual studio 2012\Projects\AppSwitchnumletra\AppSwitchnumletra\obj\Debug\AppSwitchnumletra.pdb
